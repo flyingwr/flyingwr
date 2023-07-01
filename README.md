@@ -1,5 +1,6 @@
-### **Renan Fernandes**
-<p>Backend and software engineer<br>
-Aptitude for: C#, C++, Java, Golang, PHP<br>
-Greatest skills on: JavaScript, Lua, Python<br>
-Currently venturing on a road to master cyber security</p>
+## **Renan Fernandes**
+Backend and software engineer
+Aptitude for: C#, C++, Java, Golang, PHP
+Greatest skills on: JavaScript, Lua, Python
+
+Currently venturing on a road to master cyber security
