@@ -1,5 +1,5 @@
 ## **Renan Fernandes**
-Backend and software engineer<br>
-Greatest skills: C#, JavaScript, Lua, Python<br>
+Backend and software developer<br>
+C#, JavaScript, Lua, Python<br>
 
-Currently venturing on a road to master cyber security
+Currently venturing on a road to master criptography and cyber security with a focus on web
